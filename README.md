@@ -1,2 +1,2 @@
-### unity_3dp2
-3D Mapping Project  
+### unity-3d-player-mapping
+3d mapping project 
